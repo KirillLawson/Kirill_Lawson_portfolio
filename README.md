@@ -1,17 +1,21 @@
 # Hi, I'm Kirill Lawson! 👋
 
-### 👨‍💻 Aspiring Software Engineer | AI-Augmented Builder
-I am a versatile developer driven by speed and high-quality results. I don't limit myself to a single platform; I build **comprehensive software solutions** tailored to solve specific problems.
+### 👨‍💻 Full-Stack Product Developer | AI-Augmented Builder
+I build modern software products with a focus on usability, clean execution, and rapid iteration. Rather than limiting myself to a single niche, I adapt to the project's needs — from dashboards and SaaS platforms to automation tools and AI-enhanced workflows.
 
-- 🚀 **Speed is my priority:** I deliver functional, production-ready projects in **1–2 days**.
-- 🤖 **AI-Augmented:** I leverage advanced AI tools as a force multiplier, allowing me to handle boilerplate instantly and focus on custom logic and architecture.
-- 🛠 **Generalist Approach:** From web and mobile platforms to automation scripts and custom software — I adapt to the project's needs.
-- 🔄 **Full Cycle:** I can build from scratch, jump into an existing codebase to fix bugs, or integrate AI features to modernize your project.
+⚡ Rapid Development: I specialize in fast MVP delivery and efficient product iteration without sacrificing usability or maintainability.
+
+🤖 AI-Augmented Workflow: I use advanced AI tools as a development multiplier — accelerating boilerplate, prototyping, and repetitive tasks while staying focused on architecture, logic, and product quality.
+
+🛠 Product-Focused Approach: I work across frontend, backend, UI systems, dashboards, internal tools, and custom software solutions designed around real operational needs.
+
+🔄 Full Development Cycle: From building products from scratch to improving existing systems, fixing issues, or integrating AI-powered functionality into modern applications.
 
 ---
 
 ### ⚡ The Modern Edge
-I represent the new generation of developers who work smarter and faster. By combining my problem-solving skills with AI-powered workflows, I provide **rapid turnarounds** without compromising on the final polish.
+
+I represent a modern approach to software development — combining fast execution, adaptive workflows, and product-oriented thinking to deliver polished and practical digital solutions.
 
 ---
 
