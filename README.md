@@ -24,8 +24,8 @@ I build internal tools and web apps for small teams: task and job tracking, role
 
 ---
 
-### 📫 Let's build something together!
-( 📍 Open to contract work, freelance projects, and long-term collaborations. )
+### 📫 Get in touch
+Open to freelance projects and contract work. Send me a short description of how your team handles jobs and tasks today, and I'll reply with an honest answer on whether a custom tool makes sense.
 
+[![](https://img.shields.io/badge/Email-kirill%40kirilllawson.com-555555?style=for-the-badge)](mailto:kirill@kirilllawson.com)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kurilkall)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirilllawson@gmail.com)
